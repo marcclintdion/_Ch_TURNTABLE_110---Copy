@@ -1,0 +1,42 @@
+# Blender MTL File: 'turnTable.blend'
+# Material Count: 4
+
+newmtl stone_01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd C:\\_1_CONTENT_C\\turnTable\\facing_UP.png
+
+newmtl woodHorse_LIGHT
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.610865 0.348144 0.156390
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\!!!_iOS_WIN3\!_C_TURNTABLE\_MODEL_FOLDERS_\wallStraps\wallStraps_DOT3.bmp
+
+newmtl woodHorse_LIGHT_NONE
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.610865 0.348144 0.156390
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\\_1_CONTENT_C\\horse\\horseParts\\blobs.jpg
+
+newmtl woodHorse_LIGHT_floorStraps
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.610865 0.348144 0.156390
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\!!!_iOS_WIN3\!_C_TURNTABLE\_MODEL_FOLDERS_\wallStraps\wallStraps_DOT3.bmp
